@@ -23,3 +23,5 @@
 *.mdb.meta
 *.opendb.meta
 *.VC.db.meta
+   # Ignorar archivos de video
+   Assets/Video/*.mp4
